@@ -1,1 +1,0 @@
-[{"msg":"dispositivo_activo"}]
